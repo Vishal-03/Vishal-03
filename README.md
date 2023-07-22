@@ -2,11 +2,6 @@
 <h3 align="center">Cooks in Day🧑‍🍳 and Code🧑‍💻 in Night.</h3>
 <img align = "right" alt = "photo" width = "230" src = "https://media.licdn.com/dms/image/C4D03AQHD9t5unNIQXQ/profile-displayphoto-shrink_800_800/0/1628605963591?e=1695254400&v=beta&t=MZ2D3B_tf0-e09rwyY_g07ynCtKN0V3hty_taK940Ik">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-03&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-03" alt="vishal-03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vishal choudhary" target="blank"><img src="https://img.shields.io/twitter/follow/vishal choudhary?logo=twitter&style=for-the-badge" alt="vishal choudhary" /></a> </p>
 
 - 🔭 I’m currently working on **Decentralized cloud Systems**
 
