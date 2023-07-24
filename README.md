@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi 👋, I'm Gyanendra</h1>
 <h3 align="center">Cooks in Day🧑‍🍳 and Codes🧑‍💻 at Night.</h3>
 <img align = "right" alt = "photo" width = "230" src = "https://media.licdn.com/dms/image/C4D03AQHD9t5unNIQXQ/profile-displayphoto-shrink_800_800/0/1628605963591?e=1695254400&v=beta&t=MZ2D3B_tf0-e09rwyY_g07ynCtKN0V3hty_taK940Ik">
 
