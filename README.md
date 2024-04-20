@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Backend and Server Side development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishal-03](https://github.com/vishal-03)
-
-- 📝 I regularly write articles on [https://vishal3502.hashnode.dev/](https://vishal3502.hashnode.dev/)
-
 - 💬 Ask me about **NodeJs, Databases, SQL, MongoDB**
 
-- 📫 How to reach me **vishal35choudhary@gmail.com**
+- 📫 How to reach me **rahul16raj0007@gmail.com**
 
 - ⚡ Fun fact **My favourite footballer Lionel Messi but world's best footballer is Lionel Messi (Suiiiiii.....)**
 
